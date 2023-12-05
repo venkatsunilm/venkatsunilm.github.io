@@ -1,3 +1,4 @@
+
 # Venkat Minchala's GitHub Links
 
 Welcome to my GitHub repository showcasing various projects, mobile applications, research samples, entrepreneurial ventures, and DevOps & integration services.
@@ -23,7 +24,8 @@ Welcome to my GitHub repository showcasing various projects, mobile applications
 - [Dialog Flow](https://github.com/venkatsunilm/Dialogflow.git): Research project for implementing Dialog Flow.
 - [Analytics](https://github.com/venkatsunilm/GMAnalytics.git): Research project on analytics.
 
-## Entrepreneurial Ventures
+## Experienced in initiating and contributing to innovative tech projects
+- I co-founded the carpooling app six years ago and developed a personal project in my early days.
 - [TrackTech (India)]: 
 	- Sample Mobile app for live tracking with safety features.
 - [RideShare (India, Chicago)]: - Car Pooling Application:
@@ -32,4 +34,3 @@ Welcome to my GitHub repository showcasing various projects, mobile applications
 ## DevOps & Integration Services
 - [DCASE 2023 Task 2 Dataset POC with Docker and Microservices on GCP](https://github.com/MinchalaVenkatSunil/ML_DCASE2023Task2DataSet.git): End-to-end Machine Learning pipeline within Dockerized services.
 - [Integrations Design Sample with Azure](https://dev.azure.com/venkatsunilm/MultiCustomerIntegrationsPipeline/_git/IntegrationsDesignSample): Design base for handling projects with multiple customers and individual pipelines execution.
-

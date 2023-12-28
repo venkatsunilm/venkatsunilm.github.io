@@ -5,7 +5,7 @@ Welcome to my GitHub repository showcasing various projects, mobile applications
 ## Table of Contents
 - [Mobile Applications](#mobile-applications)
 - [Research Projects Samples](#research-projects-samples)
-- [Entrepreneurial Ventures](#entrepreneurial-ventures)
+- [Innovative Tech Projects](#Innovative-Tech-Projects)
 - [DevOps & Integration Services](#devops--integration-services)
 
 ## Mobile Applications
@@ -23,7 +23,9 @@ Welcome to my GitHub repository showcasing various projects, mobile applications
 - [Dialog Flow](https://github.com/venkatsunilm/Dialogflow.git): Research project for implementing Dialog Flow.
 - [Analytics](https://github.com/venkatsunilm/GMAnalytics.git): Research project on analytics.
 
-## Entrepreneurial Ventures
+## Innovative Tech Projects
+- Experienced in initiating and contributing to innovative tech projectss 
+- I co-founded the carpooling app six years ago and developed a personal project in my early days but not operational ATM.
 - [TrackTech (India)]: 
 	- Sample Mobile app for live tracking with safety features.
 - [RideShare (India, Chicago)]: - Car Pooling Application:
